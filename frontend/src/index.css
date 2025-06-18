@@ -1,5 +1,9 @@
-@config "../tailwind.config.js";
 
+@config "../tailwind.config.js";
+@import "tailwindcss";
+@plugin "daisyui";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
