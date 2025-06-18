@@ -1,7 +1,7 @@
 ✨ Full Stack Realtime Chat App ✨
 
 
-# 💬 Chat App
+# 💬 Whispr - Chat App
 
 A real-time chat application built with [your tech stack here – e.g., React, Node.js, Socket.io, MongoDB]. Users can send and receive messages instantly in private or group chats.
 
